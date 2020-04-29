@@ -1,7 +1,8 @@
-package com.luteh.newsapp
+package com.luteh.newsapp.presentation.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.luteh.newsapp.R
 
 class MainActivity : AppCompatActivity() {
 
